@@ -1,2 +1,12 @@
-### Description:
-Create a data analysis project that explores trends in the gaming industry using Python. This project will involve collecting and analyzing data related to video games, player preferences, and market trends. You can then visualize the insights you discover to make the findings more engaging and understandable.
+#Step 1:
+
+#Data collection -> Creating a dataset from scratch.
+I used MEDIUM, a blog post created by Jesse Neumann published in Towards Data Science to learn how to create my first data set:
+Source: https://towardsdatascience.com/creating-a-dataset-from-scratch-b8e2f8752436
+
+#Step 2:
+
+#Understanding and planning:
+->The data science project involves modelling the success of video games, discovering the importance of individual features and then creating an interactive web app.
+The web app will allow a game developer to inpuit and modify a game design in order to maximize the predicted success given the resources available.
+->Planning with the GitHub feature called "Kanban" style project board that will complete steps automatically after you merge a pull request for the specific issue.
